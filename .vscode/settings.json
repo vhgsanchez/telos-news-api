@@ -1,0 +1,23 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Omni",
+  "editor.formatOnSave": true,
+
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "git.suggestSmartCommit": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "C_Cpp.files.exclude": {
+    "/.vscode": true,
+    "/.vs": true
+  }
+}
